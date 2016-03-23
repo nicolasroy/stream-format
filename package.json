@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "concat-stream": "1.x",
-    "new-format": "azer/format-text",
+    "format-text": "azer/format-text",
     "through": "~2.3.4",
     "parallel-loop": "azer/parallel-loop",
     "pause-function": "azer/pause-function"
