@@ -8,13 +8,13 @@
   },
   "dependencies": {
     "concat-stream": "1.x",
-    "new-format": "0.x",
+    "new-format": "azer/new-format",
     "through": "~2.3.4",
-    "parallel-loop": "0.0.0",
-    "pause-function": "0.0.1"
+    "parallel-loop": "azer/parallel-loop",
+    "pause-function": "azer/pause-function"
   },
   "devDependencies": {
-    "prova": "*",
+    "prova": "nicolasroy/prova",
     "from": "*"
   },
   "keywords": [
